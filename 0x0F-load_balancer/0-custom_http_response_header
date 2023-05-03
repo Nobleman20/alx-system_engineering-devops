@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-$ Scipt that:
+# Scipt that:
 # Installs Nginx with the following configurations:
 #+    Listens on port 80.
 #+    Returns a page containing "Hello World!" when queried
