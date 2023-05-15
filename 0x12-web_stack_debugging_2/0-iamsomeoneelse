@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Bash script rruns the whoami command on the the first argument that is
+# paseed to it. Assumming the first command passed to the script is a user
+# registerred on the system.
+sudo -u "$1" whoami
